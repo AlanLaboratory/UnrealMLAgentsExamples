@@ -1,0 +1,3 @@
+[submodule "Plugins/DRL"]
+	path = Plugins/DRL
+	url = git@github.com:AlanLaboratory/DeepReinforcementLearning.git
