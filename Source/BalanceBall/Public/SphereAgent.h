@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Agent.h"
+#include "UnrealMLAgents/Agent.h"
 #include "SphereAgent.generated.h"
 
 /**

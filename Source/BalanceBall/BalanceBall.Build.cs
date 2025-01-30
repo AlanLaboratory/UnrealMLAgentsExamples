@@ -18,7 +18,7 @@ public class BalanceBall : ModuleRules
         PrivateDependencyModuleNames.AddRange(
             new string[]
             {
-                // Add private dependencies that you statically link with here
+                "UnrealMLAgents"
             }
         );
 

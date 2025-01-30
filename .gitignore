@@ -144,3 +144,7 @@ venv.bak/
 # Visual studio project
 .vscode
 .DS_Store
+
+# ----------------------------------- Other ---------------------------------- #
+
+Plugins/
