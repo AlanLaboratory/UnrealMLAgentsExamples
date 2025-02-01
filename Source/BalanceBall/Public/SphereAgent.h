@@ -7,7 +7,7 @@
 #include "SphereAgent.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
 class BALANCEBALL_API USphereAgent : public UAgent
@@ -16,7 +16,7 @@ class BALANCEBALL_API USphereAgent : public UAgent
 
 public:
 
-	virtual void Heuristic(FActionBuffers& ActionsOut) override;
+    void Heuristic_Implementation(const FActionBuffers& ActionsOut) override;
 
     UPROPERTY(BlueprintReadWrite, category="Input")
     float HorizontalInput;
