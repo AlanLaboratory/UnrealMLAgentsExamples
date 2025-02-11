@@ -9,7 +9,7 @@ and learn through trial and error.
 To get started with Unreal ML Agents and set up these examples, please refer to the **Getting Started Guide** in the
 main documentation:
 
-📖 **[Unreal ML Agents - Getting Started](https://unrealmlagents.readthedocs.io/en/latest/getting-started.html)**
+📖 **[Unreal ML Agents - Getting Started](https://unrealmlagents.readthedocs.io/en/latest/intro/getting-started.html)**
 
 ## Documentation
 
