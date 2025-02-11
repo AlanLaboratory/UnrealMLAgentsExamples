@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"EngineAssociation": "5.5",
-	"Category": "",
-	"Description": "",
+	"Category": "AI & Machine Learning, Unreal Engine Examples",
+	"Description": "A collection of example environments for UnrealMLAgents plugin, showcasing reinforcementlearning concepts in Unreal Engine. These examples help developers understand agent training, environment setup, and integration with Unreal's physics and AI systems.",
 	"Modules": [
 		{
 			"Name": "UnrealMLAgentsExamples",
